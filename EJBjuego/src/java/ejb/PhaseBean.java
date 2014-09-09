@@ -4,7 +4,6 @@
  */
 package ejb;
 
-import entidades.Drawable;
 import javax.ejb.Remote;
 import javax.ejb.Remove;
 import javax.ejb.Stateful;
