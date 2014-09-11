@@ -7,5 +7,6 @@ import javax.ejb.Remote;
  */
 @Remote
 public interface UserBeanInterface {
+    
     abstract Object verifyUser(String user, String password);
 }
