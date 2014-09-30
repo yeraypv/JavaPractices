@@ -3,3 +3,6 @@
 /HibernateSwingApp/dist/
 *.jar
 *.war
+/JavaApplication16/nbproject/private/
+/JavaApplication16/build/
+/JavaApplication16/dist/
